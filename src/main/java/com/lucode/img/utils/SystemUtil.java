@@ -1,4 +1,4 @@
-package upload.utils;
+package com.lucode.img.utils;
 
 /**
  * @author liutianhao

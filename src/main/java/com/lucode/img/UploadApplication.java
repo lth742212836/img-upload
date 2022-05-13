@@ -1,9 +1,9 @@
-package upload;
+package com.lucode.img;
 
 import com.aliyun.oss.OSS;
 import com.aliyun.oss.OSSClientBuilder;
 import com.aliyun.oss.model.PutObjectRequest;
-import upload.utils.SystemUtil;
+import com.lucode.img.utils.SystemUtil;
 
 import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;
@@ -15,9 +15,6 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Properties;
 
-/**
- * @author swing
- */
 public class UploadApplication {
     public static final String BUCKET_NAME;
     public static final String ACCESS_KEY_SECRET;

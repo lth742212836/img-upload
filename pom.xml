@@ -44,7 +44,7 @@
                             <archive>
                                 <manifest>
                                     <mainClass><!-- 这个是主类，也就是main方法所在的类 -->
-                                        upload.UploadApplication
+                                        com.lucode.img.UploadApplication
                                     </mainClass>
                                 </manifest>
                             </archive>

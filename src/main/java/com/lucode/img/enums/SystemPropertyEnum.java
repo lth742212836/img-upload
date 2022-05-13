@@ -1,4 +1,4 @@
-package upload.enums;
+package com.lucode.img.enums;
 
 /**
  * @author liutianhao
