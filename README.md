@@ -13,6 +13,7 @@ src/resource下 config.properties为配置文件模板
 可根据oss云服务厂商 提供的oss服务自行配置
 
 备注：配置文件需放置在系统的user.home\lucode\img-upload\目录下
+
 windows: C:\Users\Administrator\lucode\img-upload
 
 linux:
